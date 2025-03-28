@@ -2,7 +2,7 @@
 ---
 This repository contains data information, benchmark models, and evaluation metric scripts for the IDeAS Fast forward: Forecasting global emerging threats challenge. 
 
-** This repository is currently a work in progress. More detailed information concerning benchmark models and evaluation metrics is to come. **
+**This repository is currently a work in progress. More detailed information concerning benchmark models and evaluation metrics is to come.**
 
 ## The challenge
 
